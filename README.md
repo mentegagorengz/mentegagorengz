@@ -25,8 +25,6 @@
 
 ---
 
-### 🛠️ My Tech Stack
-
 ### 🛠️ Skills & Tech Stack
 
 <div align="center">
