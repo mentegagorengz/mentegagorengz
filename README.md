@@ -11,15 +11,12 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/[username-linkedin-kamu]">
+  <a href="https://www.linkedin.com/in/maxtroezra">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/[username-twitter-kamu]">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://[link-portfolio-pribadi-kamu]">
+<!--   <a href="https://[link-portfolio-pribadi-kamu]">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  </a> -->
 </div>
 
 ---
@@ -53,21 +50,9 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username-github-kamu]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mentegagorengz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username-github-kamu]&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentegagorengz&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-
----
-
-### 📌 Featured Projects
-
-Cek beberapa proyek yang pernah aku kerjakan:
-
-| Nama Proyek                                       | Deskripsi Singkat                                        | Tautan                                                   |
-| ------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| 🚀 **[Nama Proyek 1]** | Deskripsi singkat dan keren tentang proyek ini. Teknologi apa yang dipakai? Apa tujuannya? | [**Repo**](link-ke-repo) / [**Live Demo**](link-ke-demo-live) |
-| 🎨 **[Nama Proyek 2]** | Deskripsi singkat dan keren tentang proyek ini. Apa tantangan terbesarnya?           | [**Repo**](link-ke-repo) / [**Live Demo**](link-ke-demo-live) |
-| ⚙️ **[Nama Proyek 3]** | Deskripsi singkat dan keren tentang proyek ini. Apa yang kamu pelajari dari sini? | [**Repo**](link-ke-repo) / [**Live Demo**](link-ke-demo-live) |
 
 ---
