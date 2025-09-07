@@ -1,23 +1,27 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Hi there, I'm [Nama Kamu] 👋
+    Hi there, I'm [Nama Lengkap Kamu] 👋
   </h1>
   <p>
-    I'm a [Peran Kamu, cth: Frontend Developer, Mahasiswa IT, Data Scientist] yang passionate tentang [Sebutkan 1-2 hal yang kamu suka, cth: clean code, user experience, dan inovasi teknologi]. 
-    <br/>
-    Saat ini lagi fokus mendalami [Teknologi yang sedang dipelajari, cth: React Native] dan suka bereksperimen dengan project-project kecil.
+    An Informatics Engineering graduate from Sam Ratulangi University with a deep passion for technology and problem-solving. I'm always excited to learn, build, and contribute to the tech world.
   </p>
+</div>
+
+<div align="center">
+  
+- 🎓 **Graduate:** Informatics Engineering, Universitas Sam Ratulangi (Manado).
+- 💻 **Experience:** Versatile experience as a Developer, Freelancer, and Content Manager.
+- 🤝 **Collaboration:** A solid team player who can also fly solo to get things done.
+- 🚀 **Mission:** Turning complex problems into elegant solutions with code.
+
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maxtroezra">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="https://[link-portfolio-pribadi-kamu]">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
-  </a> -->
-</div>
+  </div>
 
 ---
 
