@@ -55,7 +55,7 @@
   <p style="font-size:14px;">User Centered Design • UI Design • UX Design</p>
   
   <h4>Soft Skills</h4>
-  <p style="font-size:14px;">Komunikasi • Kepemimpinan • Multitasking • Problem Solving • Teamwork • Critical Thinking</p>
+  <p style="font-size:14px;">Communication • Leadership • Multitasking • Problem Solving • Teamwork • Critical Thinking</p>
 
   <h4>Tools</h4>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
